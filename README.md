@@ -1,3 +1,3 @@
 # Codes_in_Python
 
-- [image](https://i.pinimg.com/originals/54/2c/8b/542c8b091f6c1bc3a8a1c33a71466521.jpg)
+![Capture](https://github.com/Adeen317/Codes_in_Python/assets/112985225/10789e17-9d9a-47bc-bc14-487040e7ecdd)
