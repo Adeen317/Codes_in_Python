@@ -10,5 +10,5 @@ data2={
     "Identification":('adeen',1234)
     }
 
-json12=json.dumps(data2) # Rhis command converts python diff types compatible with Java and can take data of multiple types together in a single tuple 
+json12=json.dumps(data2) # This command converts python different types compatible with Java and can take data of multiple types(string,numbers,..) together in a single tuple 
 print(json12)
